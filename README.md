@@ -2,7 +2,7 @@
 Endpoint Analytics Proactive Remediation: Check devices with missing or disabled drivers
 
 > *View the full blog post here*
-http://www.systanddeploy.com/2020/09/group-policy-analytics-scripts-import.html
+http://www.systanddeploy.com/2020/10/endpoint-analytics-proactive.html
 
 **Available scripts**
 You will find the below scripts:
